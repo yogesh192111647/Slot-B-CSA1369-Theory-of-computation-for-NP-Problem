@@ -40,6 +40,6 @@ else
 {
  printf("The string is not a palindrome\n");
  printf("string is Not accepted\n");
- }
+}
 }
 }
